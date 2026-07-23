@@ -3,8 +3,6 @@
 
 A clean, production-ready, and interview-oriented Low-Level Design (LLD) implementation of a **Car Rental System** using **Java** and **Object-Oriented Design Principles**. This repository demonstrates how to model a complex real-world domain using class hierarchies, dynamic composition, aggregation, enum mappings, and decoupled components.
 
-> ⭐ Designed specifically for **SDE LLD Interviews** (Amazon, Microsoft, Walmart, Flipkart, Adobe, Uber, Google, etc.)
-
 ---
 
 ## 📌 Key System Features

@@ -100,44 +100,7 @@ A clean, production-ready, and interview-oriented Low-Level Design (LLD) impleme
 | + completeReservation()                               |
 +-------------------------------------------------------+
 
-# 📂 Project Structure
 
-```
-src
-│
-├── constants
-│   ├── AccountType.java
-│   ├── VehicleType.java
-│   ├── CarType.java
-│   ├── VanType.java
-│   ├── TruckType.java
-│   ├── MotorcycleType.java
-│   ├── ReservationStatus.java
-│   ├── EquipmentType.java
-│   └── ServiceType.java
-│
-├── models
-│   ├── Account.java
-│   ├── Customer.java
-│   ├── Receptionist.java
-│   ├── Vehicle.java
-│   ├── Car.java
-│   ├── Van.java
-│   ├── Motorcycle.java
-│   ├── Truck.java
-│   ├── Branch.java
-│   ├── ParkingStall.java
-│   ├── Reservation.java
-│   ├── Equipment.java
-│   ├── Service.java
-│   ├── VehicleLog.java
-│   ├── Fine.java
-│   └── Notification.java
-│
-└── Main.java
-```
-
----
 
 # 📖 Class Relationships
 
